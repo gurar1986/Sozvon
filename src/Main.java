@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println(findUniq(new double[]{ 1, 89, 1, 1, 1, 1 }));
+        System.out.println(findUniq(new double[]{ 1, 789, 1, 1, 1, 1 }));
 
     }
     /*
